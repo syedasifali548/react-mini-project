@@ -1,8 +1,10 @@
+import Pokemon from "./Pokemon"
+
 function App() {
 
   return (
     <>
-    <h1>Hello Bhai</h1>
+    <Pokemon/>
     </>
   )
 }
